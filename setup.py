@@ -10,5 +10,5 @@ setup(
     author="Iker Ortiz de Luzuriaga",
     author_email="iker.ortiz@dipc.org",
     description="Un módulo de ejemplo que solicita datos",
-    url="https://github.com/tuusuario/mimodulo",
+    url="https://github.com/iortizdeluzu/minimodulo",
 )
