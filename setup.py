@@ -11,4 +11,9 @@ setup(
     author_email="iker.ortiz@dipc.org",
     description="Un módulo de ejemplo que solicita datos",
     url="https://github.com/iortizdeluzu/minimodulo",
+    install_requires=[
+    "numpy>=1.23",
+    "pandas",
+    "requests"
+],
 )
