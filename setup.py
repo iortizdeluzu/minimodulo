@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mimodulo",           # Nombre del paquete
+    name="minimodulo",           # Nombre del paquete
     version="0.1",              # Versión inicial
     packages=find_packages(),   # Encuentra automáticamente las carpetas con __init__.py
     install_requires=[],        # Dependencias externas si las hay
